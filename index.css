@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+*{
+    margin: 0;
+}
+main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-pokemon{
+font-family: 'Roboto', sans-serif;
+height: 200px;
+width: 200px;
+background: papayawhip;
+text-align: center;
+}
